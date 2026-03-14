@@ -1,6 +1,7 @@
 # Yoga Pose Classification: MediaPipe vs. Deep Learning
 
-Stanford CS229 Final Project — Lara Selin Seyahi
+Stanford CS229 Final Project
+Lara Selin Seyahi
 
 ## Overview
 This project compares landmark-based classical classifiers and fine-tuned CNNs 
