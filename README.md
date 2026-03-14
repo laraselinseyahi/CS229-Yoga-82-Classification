@@ -1,6 +1,7 @@
 # Yoga Pose Classification: MediaPipe vs. Deep Learning
 
 Stanford CS229 Final Project
+
 Lara Selin Seyahi
 
 ## Overview
